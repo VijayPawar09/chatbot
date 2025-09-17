@@ -1,0 +1,10 @@
+project_id = "syoepzxmmpseqlvwpark"
+
+[functions.news-ingestion]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
+
+[functions.session-management]
+verify_jwt = false
